@@ -1,0 +1,53 @@
+[
+  {
+    "id": 101,
+    "title": "How to Install Visual Studio Code on Windows",
+    "softwareName": "Visual Studio Code",
+    "categoryId": 1,
+    "authorId": 1,
+    "description": "Visual Studio Code is a free, lightweight source-code editor developed by Microsoft, supporting debugging, syntax highlighting, and extensions for nearly every programming language.",
+    "officialDownloadUrl": "https://code.visualstudio.com/download",
+    "systemRequirements": {
+      "os": ["Windows 10", "Windows 11"],
+      "ram": "1 GB minimum, 4 GB recommended",
+      "storage": "200 MB free space",
+      "processor": "1.6 GHz or faster"
+    },
+    "createdAt": "2026-04-10T08:00:00Z",
+    "updatedAt": "2026-04-10T08:00:00Z"
+  },
+  {
+    "id": 102,
+    "title": "How to Install Figma Desktop App on Windows",
+    "softwareName": "Figma",
+    "categoryId": 2,
+    "authorId": 2,
+    "description": "Figma is a collaborative interface design tool used for UI/UX design, prototyping, and real-time team collaboration.",
+    "officialDownloadUrl": "https://www.figma.com/downloads/",
+    "systemRequirements": {
+      "os": ["Windows 10", "Windows 11"],
+      "ram": "4 GB minimum, 8 GB recommended",
+      "storage": "500 MB free space",
+      "processor": "2.0 GHz dual-core or faster"
+    },
+    "createdAt": "2026-05-02T10:15:00Z",
+    "updatedAt": "2026-05-02T10:15:00Z"
+  },
+  {
+    "id": 103,
+    "title": "How to Install Discord on Windows",
+    "softwareName": "Discord",
+    "categoryId": 4,
+    "authorId": 1,
+    "description": "Discord is a voice, video, and text communication platform widely used by gaming and professional communities alike.",
+    "officialDownloadUrl": "https://discord.com/download",
+    "systemRequirements": {
+      "os": ["Windows 10", "Windows 11"],
+      "ram": "2 GB minimum",
+      "storage": "300 MB free space",
+      "processor": "1.5 GHz or faster"
+    },
+    "createdAt": "2026-06-18T16:40:00Z",
+    "updatedAt": "2026-06-18T16:40:00Z"
+  }
+]

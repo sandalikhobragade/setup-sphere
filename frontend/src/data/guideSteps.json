@@ -1,0 +1,79 @@
+[
+  {
+    "id": 501,
+    "guideId": 101,
+    "stepNumber": 1,
+    "instruction": "Open your browser and go to the official Visual Studio Code website at code.visualstudio.com.",
+    "screenshotUrl": "/screenshots/vscode-step1.png"
+  },
+  {
+    "id": 502,
+    "guideId": 101,
+    "stepNumber": 2,
+    "instruction": "Click the 'Download for Windows' button. The installer file (.exe) will begin downloading automatically.",
+    "screenshotUrl": "/screenshots/vscode-step2.png"
+  },
+  {
+    "id": 503,
+    "guideId": 101,
+    "stepNumber": 3,
+    "instruction": "Once downloaded, double-click the installer file to launch the setup wizard.",
+    "screenshotUrl": "/screenshots/vscode-step3.png"
+  },
+  {
+    "id": 504,
+    "guideId": 101,
+    "stepNumber": 4,
+    "instruction": "Accept the license agreement, choose your install location, and click 'Next' through the setup options.",
+    "screenshotUrl": "/screenshots/vscode-step4.png"
+  },
+  {
+    "id": 505,
+    "guideId": 101,
+    "stepNumber": 5,
+    "instruction": "Click 'Install' and wait for the process to complete, then click 'Finish' to launch VS Code.",
+    "screenshotUrl": "/screenshots/vscode-step5.png"
+  },
+  {
+    "id": 506,
+    "guideId": 102,
+    "stepNumber": 1,
+    "instruction": "Visit figma.com/downloads and click 'Download' under the Desktop App section.",
+    "screenshotUrl": "/screenshots/figma-step1.png"
+  },
+  {
+    "id": 507,
+    "guideId": 102,
+    "stepNumber": 2,
+    "instruction": "Run the downloaded installer and follow the on-screen setup prompts.",
+    "screenshotUrl": "/screenshots/figma-step2.png"
+  },
+  {
+    "id": 508,
+    "guideId": 102,
+    "stepNumber": 3,
+    "instruction": "Once installed, open Figma and sign in with your Figma account or create a new one.",
+    "screenshotUrl": "/screenshots/figma-step3.png"
+  },
+  {
+    "id": 509,
+    "guideId": 103,
+    "stepNumber": 1,
+    "instruction": "Go to discord.com/download and click 'Download for Windows'.",
+    "screenshotUrl": "/screenshots/discord-step1.png"
+  },
+  {
+    "id": 510,
+    "guideId": 103,
+    "stepNumber": 2,
+    "instruction": "Run the downloaded 'DiscordSetup.exe' file. Discord installs automatically with no configuration screens.",
+    "screenshotUrl": "/screenshots/discord-step2.png"
+  },
+  {
+    "id": 511,
+    "guideId": 103,
+    "stepNumber": 3,
+    "instruction": "Discord will launch automatically after installation. Log in or create an account to start using it.",
+    "screenshotUrl": "/screenshots/discord-step3.png"
+  }
+]

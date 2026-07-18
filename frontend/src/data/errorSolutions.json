@@ -1,0 +1,37 @@
+[
+  {
+    "id": 901,
+    "guideId": 101,
+    "errorText": "VS Code installation fails with 'Error 1603: A fatal error occurred during installation.'",
+    "solution": "This usually happens when a previous VS Code installation wasn't fully removed. Uninstall any existing version via Control Panel > Programs, delete leftover folders in %APPDATA%\\Code and %LOCALAPPDATA%\\Programs\\Microsoft VS Code, then re-run the installer.",
+    "source": "manual"
+  },
+  {
+    "id": 902,
+    "guideId": 101,
+    "errorText": "VS Code opens but extensions fail to install with a network error.",
+    "solution": "This is often caused by a proxy or firewall blocking the Marketplace. Go to File > Preferences > Settings, search for 'proxy', and configure your proxy URL, or temporarily disable your firewall to confirm the cause.",
+    "source": "manual"
+  },
+  {
+    "id": 903,
+    "guideId": 102,
+    "errorText": "Figma desktop app shows a blank white screen after launch.",
+    "solution": "This is typically a GPU rendering issue. Close Figma, then relaunch it while holding Ctrl to disable hardware acceleration, or update your graphics drivers to the latest version.",
+    "source": "manual"
+  },
+  {
+    "id": 904,
+    "guideId": 103,
+    "errorText": "Discord gets stuck at 'Checking for updates' on launch.",
+    "solution": "Close Discord completely via Task Manager, then delete the contents of %APPDATA%\\Discord (this does not delete your account or messages, only cached app files), and relaunch Discord to trigger a clean update.",
+    "source": "manual"
+  },
+  {
+    "id": 905,
+    "guideId": null,
+    "errorText": "Installer says 'This app can't run on your PC'.",
+    "solution": "This means the installer doesn't match your system architecture. Check whether you downloaded the 32-bit or 64-bit version, and confirm your Windows version by going to Settings > System > About, then download the matching installer.",
+    "source": "ai"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Rumi Perera",
+    "email": "sandali@example.com",
+    "password": "$2b$10$mockHashedPasswordString1",
+    "createdAt": "2026-01-15T09:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "David Silva",
+    "email": "kavindu@example.com",
+    "password": "$2b$10$mockHashedPasswordString2",
+    "createdAt": "2026-02-20T14:10:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Amaya Fernando",
+    "email": "amaya@example.com",
+    "password": "$2b$10$mockHashedPasswordString3",
+    "createdAt": "2026-03-05T11:45:00Z"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 701,
+    "guideId": 101,
+    "question": "Is Visual Studio Code free to use?",
+    "answer": "Yes, VS Code is completely free and open-source, released under the MIT license."
+  },
+  {
+    "id": 702,
+    "guideId": 101,
+    "question": "Does VS Code work on 32-bit systems?",
+    "answer": "No, current versions of VS Code only support 64-bit operating systems. Older 32-bit builds were discontinued."
+  },
+  {
+    "id": 703,
+    "guideId": 101,
+    "question": "Can I sync my settings across multiple computers?",
+    "answer": "Yes, sign in with a Microsoft or GitHub account and enable Settings Sync from the Accounts menu."
+  },
+  {
+    "id": 704,
+    "guideId": 102,
+    "question": "Is Figma free to use?",
+    "answer": "Figma offers a free Starter plan with limited projects. Paid plans unlock unlimited projects and advanced collaboration features."
+  },
+  {
+    "id": 705,
+    "guideId": 102,
+    "question": "Can I use Figma without installing the desktop app?",
+    "answer": "Yes, Figma runs fully in the browser. The desktop app is optional and mainly offers faster font access and offline-like convenience."
+  },
+  {
+    "id": 706,
+    "guideId": 103,
+    "question": "Do I need an account to use Discord?",
+    "answer": "Yes, a free Discord account is required to join or create servers and communicate with others."
+  },
+  {
+    "id": 707,
+    "guideId": 103,
+    "question": "Does Discord work on multiple devices at once?",
+    "answer": "Yes, Discord supports simultaneous login across desktop, mobile, and browser sessions."
+  }
+]

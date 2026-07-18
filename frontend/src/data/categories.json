@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Development Tools",
+    "slug": "development-tools",
+    "icon": "code-2"
+  },
+  {
+    "id": 2,
+    "name": "Design Software",
+    "slug": "design-software",
+    "icon": "palette"
+  },
+  {
+    "id": 3,
+    "name": "Productivity",
+    "slug": "productivity",
+    "icon": "briefcase"
+  },
+  {
+    "id": 4,
+    "name": "Communication",
+    "slug": "communication",
+    "icon": "message-circle"
+  },
+  {
+    "id": 5,
+    "name": "Utilities & System Tools",
+    "slug": "utilities-system-tools",
+    "icon": "settings"
+  },
+  {
+    "id": 6,
+    "name": "Games & Entertainment",
+    "slug": "games-entertainment",
+    "icon": "gamepad-2"
+  }
+]
