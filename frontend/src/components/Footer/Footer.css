@@ -1,0 +1,13 @@
+.footer {
+  text-align: center;
+  padding: 24px;
+  background-color: #1e1e2f;
+  color: #cccccc;
+  margin-top: 48px;
+}
+
+.footer-tagline {
+  font-size: 0.85rem;
+  color: #999999;
+  margin-top: 4px;
+}

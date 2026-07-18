@@ -1,0 +1,49 @@
+.guide-card {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #1e1e2f;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.guide-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.guide-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.guide-card-title {
+  font-size: 1.05rem;
+  margin: 0;
+}
+
+.guide-card-category {
+  font-size: 0.75rem;
+  background-color: #eef0ff;
+  color: #4a5aef;
+  padding: 4px 10px;
+  border-radius: 12px;
+  white-space: nowrap;
+}
+
+.guide-card-description {
+  font-size: 0.9rem;
+  color: #555;
+  flex-grow: 1;
+  margin-bottom: 12px;
+}
+
+.guide-card-footer {
+  font-size: 0.8rem;
+  color: #888;
+}
