@@ -1,0 +1,9 @@
+/* Shared, cross-page layout utility classes — used by Home, CategoryPage,
+   SearchResults, and any future page that displays a grid of guide cards.
+   Living here (not in one specific page's CSS file) avoids relying on
+   which page happened to load first for this class to be defined. */
+.guide-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}

@@ -1,0 +1,32 @@
+.sys-req {
+  margin: 32px 0;
+}
+
+.sys-req-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 12px;
+}
+
+.sys-req-item {
+  display: flex;
+  gap: 12px;
+  padding: 14px;
+  background-color: #f7f8fc;
+  border-radius: 8px;
+}
+
+.sys-req-icon {
+  color: #4a5aef;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.sys-req-label {
+  display: block;
+  font-size: 0.75rem;
+  color: #888;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+}

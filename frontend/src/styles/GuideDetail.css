@@ -1,0 +1,57 @@
+.guide-detail {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 32px 24px 64px 24px;
+}
+
+.guide-detail-header {
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 24px;
+  margin-bottom: 12px;
+}
+
+.guide-detail-category {
+  font-size: 0.75rem;
+  background-color: #eef0ff;
+  color: #4a5aef;
+  padding: 4px 10px;
+  border-radius: 12px;
+}
+
+.guide-detail-header h1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 16px 0;
+  color: #111827;
+}
+
+.guide-detail-description {
+  color: #555;
+  margin-bottom: 16px;
+}
+
+.guide-detail-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  font-size: 0.85rem;
+  color: #888;
+}
+
+.guide-detail-download-btn {
+  background-color: #4a5aef;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 8px 18px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.guide-not-found {
+  text-align: center;
+  padding: 80px 24px;
+}

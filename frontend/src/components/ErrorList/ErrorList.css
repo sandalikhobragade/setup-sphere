@@ -1,0 +1,40 @@
+.error-list {
+  margin: 32px 0;
+}
+
+.error-item {
+  background-color: #fff8f6;
+  border-left: 3px solid #e6543f;
+  border-radius: 6px;
+  padding: 14px 16px;
+  margin-top: 14px;
+}
+
+.error-item-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.error-icon {
+  color: #e6543f;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.error-text {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.error-solution {
+  color: #555;
+  font-size: 0.9rem;
+  margin-left: 26px;
+}
+
+.error-list-empty {
+  color: #888;
+  margin-top: 12px;
+}

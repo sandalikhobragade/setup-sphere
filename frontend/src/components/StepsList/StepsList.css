@@ -1,0 +1,38 @@
+.steps-list {
+  margin: 32px 0;
+}
+
+.step-item {
+  display: flex;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.step-number {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #4a5aef;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.step-content {
+  flex-grow: 1;
+}
+
+.step-instruction {
+  margin-bottom: 10px;
+}
+
+.step-screenshot {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}
